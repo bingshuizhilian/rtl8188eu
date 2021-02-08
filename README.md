@@ -1,3 +1,8 @@
+# added by bingshuizhilian
+Comfast CF-WU810N driver for linux.
+Test ok for armbian on kernel 5.10.4, work well on orangepi one.
+
+
 IMPORTANT - PLEASE READ:
 
 Beginning on November 4, 2019, I will NO LONGER support people that have downloaded the source
